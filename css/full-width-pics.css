@@ -6,6 +6,21 @@
 
 body {
     margin-top: 50px; /* Required margin for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+    color: #fff;
+    background: #000;
+}
+
+.navbar{
+    background: #dd7000;
+}
+.nav a{
+  color: #000;
+  font-size: 1.5em;
+}
+
+.navbar-brand{
+  color: #000;
+  font-size:   1.5em;
 }
 
 .image-bg-fluid-height,
